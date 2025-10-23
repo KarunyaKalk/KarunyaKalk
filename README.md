@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF0080&height=220&section=header&text=Karunya%20Kalkhundiya%20👩‍💻&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
-<h3 align="center">💻 Full-Stack Developer | 🤖 AI Enthusiast | 🌍 Community Leader</h3>
+<h3 align="center">💻 Full-Stack Developer | 🤖 AI Enthusiast | 🌍 GDG CO Lead</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/karunya-kalkhundiya-686631240"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -26,7 +26,7 @@ As a **GDG Co-Lead** and **AI developer**, I’m passionate about designing scal
 
 ## 🚀 Featured Projects
 
-### 🚇 Kochi Metro Railway AI Induction Train Scheduling System *(Smart India Hackathon 2024 Finalist)*
+### 🚇 Kochi Metro Railway AI Induction Train Scheduling System *(Smart India Hackathon 2025)*
 Developed an **AI-based scheduling system** for Kochi Metro Rail Limited to optimize train induction and timing.  
 - Utilized **predictive algorithms** for dynamic ridership forecasting.  
 - Built a **React.js + Node.js** interface for real-time visualization and insights.  
