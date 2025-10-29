@@ -60,7 +60,7 @@ An AI-based budgeting app that uses **predictive analytics** to forecast expense
 
 ## 🏆 Achievements
 
-- 🧠 **Smart India Hackathon 2024 Finalist** — Kochi Metro AI Scheduling System  
+- 🧠 **Smart India Hackathon 2025 Uni Finalist** — Kochi Metro AI Scheduling System  
 - 🚀 **Co-Lead**, Google Developer Groups (GDG SRM AP)  
 - 🌸 **Co-Convener**, Gender Champion Committee  
 - 🥇 **Taekwondo State-Level Gold Medalist**  
