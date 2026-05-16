@@ -149,7 +149,7 @@ Concepts      DSA  ·  OOP  ·  REST APIs  ·  System Design  ·  DBMS
 - **Author** — *The Wild Soul* + contributor to multiple anthologies
   *(turns out systems thinking applies to narratives too)*
 
-- IELTS 8.0 · CGPA 8.1
+- IELTS 7.5 · CGPA 7.5
 
 &nbsp;
 
