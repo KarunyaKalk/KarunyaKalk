@@ -142,7 +142,7 @@ Concepts      DSA  ·  OOP  ·  REST APIs  ·  System Design  ·  DBMS
   *(building a technical community, running workshops and speaker events)*
 
 - **Co-Convener** — Gender Champion Committee
-  *(advocating for inclusion in technical spaces)*
+  *(advocating for inclusion at university)*
 
 - **Taekwondo** — State-Level Gold Medalist
 
